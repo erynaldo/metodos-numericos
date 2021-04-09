@@ -71,7 +71,7 @@ int main(void) {
 			printf("\n  -----------------------------------------------------------------------------------------------------------------------------------");
 
 			//ITERACAO
-			while (fabs(c) > precisao) {
+			while (c > precisao) {
 			// while (fabs(f(x)) > precisao) {
 
 				//CONDICAO PARA SABER ONDE VAI O VALOR DE X
